@@ -26,7 +26,7 @@ void Classe_B::GetB2() {
     B2 = B2;
 }
 int Classe_B::SetB1(int B1) {
-    return B2;
+    return B1;
 }
 int Classe_B::SetB2(float B2) {
     return B2;
